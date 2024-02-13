@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @GrahamArden
-- 👀 I’m a Medical Physicist at Castle Hill Hospital, Hull
+- 👋 Hello there, I’m @GrahamArden
+- 👀 I’m a Medical Physicist in Radiotherapy at Castle Hill Hospital, Hull which is in East Yorkshire in the UK.
 - 🌱 I’m currently learning C# and trying to improve my Python
 
 
